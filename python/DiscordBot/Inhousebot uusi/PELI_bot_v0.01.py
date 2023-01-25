@@ -93,4 +93,4 @@ async def check(reaction, user, msg):
 #      if message.content.startswith('!tyhjennä'):
 #          pelaajat= []
 #
-client.run('ODcyNjQ5NjIxMTUzOTA2Nzc4.YQs8Sg.IF84f4QKg2GCrIkxvo464mNJVD4')
+client.run('')
