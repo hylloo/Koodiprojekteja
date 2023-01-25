@@ -10,7 +10,7 @@ import requests
 
 
 
-TOKEN = 'ODczNTc5MzM3MjIyMzI0Mjg0.YQ6eKA.MPB5CIrH81oz5LTk0h8ZQzwhavc'
+TOKEN = ''
 BOT_PREFIX = "-"
 client = Bot(command_prefix=BOT_PREFIX)
 channel=client.get_channel(873588039643955230)
